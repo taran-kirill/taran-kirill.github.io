@@ -10409,7 +10409,8 @@ a {
         .block-assortment-offers .swiper-container .swiper-wrapper .swiper-slide .swiper-slide__info {
           position: absolute;
           font-size: 24px;
-          color: #fff; }
+          color: #fff;
+          z-index: 1; }
           .block-assortment-offers .swiper-container .swiper-wrapper .swiper-slide .swiper-slide__info .swiper-slide__title {
             font-size: 20px;
             margin-bottom: 10px;
